@@ -1,0 +1,11 @@
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\bin\Debug\TemperaturesSample.exe.config
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\bin\Debug\TemperaturesSample.exe
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\bin\Debug\TemperaturesSample.pdb
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.csproj.AssemblyReference.cache
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.Form1.resources
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.Properties.Resources.resources
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.csproj.GenerateResource.cache
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.exe
+F:\Visual Studio\Projects\TemperaturesSample\TemperaturesSample\TemperaturesSample\obj\Debug\TemperaturesSample.pdb
